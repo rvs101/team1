@@ -7,7 +7,7 @@
 
 `git push origin serverfix:awesomebranch`
 
-                          remoto     rama
+>                          remoto     rama
 ```[GIT] git push origin *serverfix*:awesomebranch```
 
 * Creamos el repositorio en el servidor git
@@ -16,7 +16,7 @@
 * Creado el repositorio por defecto hacemos git clone URL de nuestro servidor remoto en GIT
 * Sincronizamos y actualizamos con 'git pull'
 
-> Recuerda : Estos repositorios son de pruebas.
+> Recuerda : Estos repositorios son para hacer pruebas.
 
 Resumen : Esta rama alternativa a 'master' llamada *serverfix* contiene los objetos básicos
           del proyecto que ficticiamente queremos desarrollar
