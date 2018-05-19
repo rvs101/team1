@@ -5,8 +5,9 @@
 
 **remoto:origin - rama:serverfix**
 
-`git push origin *serverfix*:awesomebranch`
+`git push origin serverfix:awesomebranch`
 
+                          remoto     rama
 ```[GIT] git push origin *serverfix*:awesomebranch```
 
 * Creamos el repositorio en el servidor git
@@ -17,7 +18,7 @@
 
 > Recuerda : Estos repositorios son de pruebas.
 
-Resumen : esta rama alternativa a 'master' llamada *serverfix* contiene los objetos básicos
+Resumen : Esta rama alternativa a 'master' llamada *serverfix* contiene los objetos básicos
           del proyecto que ficticiamente queremos desarrollar
 
 	 
