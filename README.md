@@ -15,7 +15,7 @@
 * Creado el repositorio por defecto hacemos git clone URL de nuestro servidor remoto en GIT
 * Sincronizamos y actualizamos con 'git pull'
 
-> Cita : un viaje de 10.000 km comienza con un primer paso
+> Recuerda : Estos repositorios son de pruebas.
 
 Resumen : esta rama alternativa a 'master' llamada *serverfix* contiene los objetos básicos
           del proyecto que ficticiamente queremos desarrollar
