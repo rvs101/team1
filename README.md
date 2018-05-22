@@ -1,3 +1,3 @@
-# team Rama Client
-Repositorio de prueba Client v1
+# team Rama Server
+Repositorio de Rama Server v1
 
